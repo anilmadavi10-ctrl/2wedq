@@ -1,0 +1,9 @@
+
+{
+  "name": "Nova - Modern Full Stack Portfolio",
+  "description": "A premium, Gen Z-inspired portfolio for a Full Stack Developer featuring glassmorphism, smooth animations, and an AI-powered recruiter assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
